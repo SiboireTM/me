@@ -1,7 +1,5 @@
 
-![me](https://github.com/MadeBySosaCode/image/blob/main/2D_cartoon_Disney_character_di_9-modified.png?raw=true)
-
-# 👑 Hey, I'm SosaCode
+# 👑 Hey, I'm SiboireTM
 
 ### 💻 20 y/o Developer | FiveM Script Creator | Forever Learning
 
@@ -18,4 +16,4 @@
 
 ---
 
-📬 **Contact me on Discord:** `xshifty#0`
+📬 **Contact me on Discord:** `SiboireTM`
